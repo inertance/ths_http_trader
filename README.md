@@ -44,3 +44,5 @@ price: eg 21.21 "21.21" None 可不传 不传时 要求同花顺系统设置默�
 amount: eg 100 "100" "max" 值为"max"时，表示按最大可交易额度下单，必传
 
 QQ交流群：117863447
+
+软件下载地址: https://pan.baidu.com/s/1l72IKnkiw8RWo63MUoFbhQ?pwd=yyds 提取码: yyds 复制这段内容后打开百度网盘手机App，操作更方便哦
